@@ -15,7 +15,7 @@ Conceitos sofisticados e profundamente enraizados na linguagem tendem a surgir d
 
 É, simultaneamente, uma linguagem simples, fácil de usar e com forte aceitação, mas também um conjunto de mecanismos de linguagem complexos e cheios de nuances, cuja falta de um estudo minucioso pode mascarar um *verdadeiro entendimento* até mesmo para os(as) desenvolvedores(as) JavaScript mais experientes.
 
-É aí que se encontra o paradoxo do JavaSript, o tendão de Aquiles da linguagem, o desafio que estamos propondo. Pelo fato do JavaScript *poder* ser utilizado sem sua compreensão, o verdadeiro conhecimento sobre a linguagem geralmente nunca é alcançado.
+É aí que se encontra o paradoxo do JavaScript, o tendão de Aquiles da linguagem, o desafio que estamos propondo. Pelo fato do JavaScript *poder* ser utilizado sem sua compreensão, o verdadeiro conhecimento sobre a linguagem geralmente nunca é alcançado.
 
 ## Missão
 
