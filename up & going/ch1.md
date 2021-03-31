@@ -177,7 +177,7 @@ a = 2;
 b = a + 1;
 ```
 
-Aqui, atribuimos o valor`2` à variável `a`. Assim, pegamos o valor da variável `a` (ainda `2`), adicionamos `1` a ele, resultando no valor `3`, então armazenamos esse valor na variável `b`.
+Aqui, atribuimos o valor `2` à variável `a`. Assim, pegamos o valor da variável `a` (ainda `2`), adicionamos `1` a ele, resultando no valor `3`, então armazenamos esse valor na variável `b`.
 
 Apesar de não ser tecnicamente um operador, você irá precisar da palavra-chave `var` em cada programa, por ser o primeiro modo de *declarar* (conhecido como *criar*) *var*iáveis (veja "Variáveis").
 
