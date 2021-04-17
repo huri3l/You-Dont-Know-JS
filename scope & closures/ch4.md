@@ -1,7 +1,7 @@
 # You Don't Know JS: Escopos & Closures
 # Capítulo 4: Hoisting
 
-A essa altura, você deve estar relativamente confortável com a ideia de escopo, e como variáveis são anexadas a diferentes níveis de escopo  dependendo de onde e como elas são declaradas. Tanto o escopo de função quanto o escopo de bloco se comportam seguindo as mesmas regras e considerando o fato que: qualquer variável declarada em um escopo é anexada ele.
+A essa altura, você deve estar relativamente confortável com a ideia de escopo, e como variáveis são anexadas a diferentes níveis de escopo  dependendo de onde e como elas são declaradas. Tanto o escopo de função quanto o escopo de bloco se comportam seguindo as mesmas regras e considerando o fato que: qualquer variável declarada em um escopo é anexada à ele.
 
 Mas existe um pequeno detalhe de como o anexo de escopo funciona com declarações que aparecem em vários lugares dentro de um escopo, e este detalhe é o que nós analisaremos aqui.
 
